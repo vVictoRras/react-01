@@ -1,0 +1,25 @@
+.statistics {
+  width: 500px;
+  background-color: khaki;
+  padding: 10px 20px;
+}
+
+.statList {
+  list-style: none;
+  display: flex;
+}
+
+.item {
+  width: 80px;
+  height: 50px;
+  padding: 20px;
+}
+
+.label {
+  line-height: 1.5;
+}
+
+.percentage {
+  display: block;
+  margin-top: 10px;
+}
